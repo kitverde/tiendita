@@ -1,0 +1,45 @@
+body{
+	font-family: 'Playfair Display', serif;
+}
+nav{
+	background-color: #91E5FC;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	margin-bottom: 10px;
+
+}
+nav a{
+	color: Black;
+}
+header h1{
+	text-align: center;
+}
+div{
+	background-color: #D3E4E8;
+	border-radius: 10px;
+	
+	}
+#tabla{
+	width: 100%;
+}
+#tabla table td{
+border: 1px solid black;
+width: 18%;
+empty-cells: show;
+}
+#table {
+	border-collapse: collapse;
+	border-color: 
+}
+#table td{
+font-size: 30px;
+
+}
+#table1{
+	margin-bottom: 50px;
+
+}
+#table1 ul {
+list-style-type: none;
+}

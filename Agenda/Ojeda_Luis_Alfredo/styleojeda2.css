@@ -1,0 +1,66 @@
+form h4{
+	
+}
+nav{
+	background-color: #91E5FC;
+	text-align: center;
+	text-decoration: none;
+	font-size: 25px;
+	margin-bottom: 10px;
+
+}
+nav a{
+	color: Black;
+}
+header h1{
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+div{
+	background-color: #D3E4E8;
+	border-radius: 10px;
+	
+	}
+div form{
+	width: 99.6%;
+	border:solid black;
+	font-size:30px;
+ }
+
+div input[type=text]{
+	margin: 8px 8px;
+
+}
+select{
+	margin: 8px 8px;
+}
+
+span{
+	color: red;
+}
+#tabla{
+	width: 100%;
+}
+#tabla table td{
+border: 1px solid black;
+width: 18%;
+empty-cells: show;
+}
+#table {
+	border-collapse: collapse;
+	border-color: 
+}
+#table td{
+font-size: 30px;
+text-align: center;
+}
+.td1{
+	height: 120px;
+}
+.Busqueda a{
+	text-decoration: none;
+
+}
+li{
+	text-decoration: none;
+}

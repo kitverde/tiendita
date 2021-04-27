@@ -1,0 +1,56 @@
+body{
+	top: 10px;
+	background-color: #b7cbbf;
+	color: black;
+	font-family: arial;
+	font-size: 130%;
+}
+header{
+	font-family: 'Fira Code', monospace;
+	text-align: center;
+	font-size: 70%;
+}
+title{
+	font-family: 'Fira Code', monospace;
+	text-align: center; 
+}
+div{
+	top: 20px;
+	background-color: #B0A6AC;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 50px;
+	border-radius: 6px;
+}
+
+nav{
+	text-align: center;
+}
+h4{
+	text-align: center;
+}
+h5{
+	font-family: 'Fira Code', monospace;
+	text-align: center;
+	font-size: 95%;
+	color: gray;
+}
+#table{
+	padding-left: 30px;
+	text-align: center;
+}
+#table td{
+	text-align: left;
+	vertical-align: top;
+	width: 8%;
+	border: 1px solid #0f0f00;
+}
+#twi{
+	position: absolute;
+	top: 240px; right: 80px;
+}
+#logo{
+	position: absolute;
+	top: 5px;
+	left: 10px;
+}
